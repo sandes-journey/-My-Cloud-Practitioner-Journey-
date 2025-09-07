@@ -1,0 +1,21 @@
+Security Lab: IAM User and Policy Configuration
+
+Objective  
+To configure Identity and Access Management (IAM) users, groups, and policies to control access securely.
+
+Steps Taken  
+1. Navigated to the AWS IAM console.  
+2. Created IAM users with programmatic access.  
+3. Assigned users to groups with specific permission policies.  
+4. Developed custom policies in JSON format.  
+5. Enabled Multi-Factor Authentication (MFA) for added security.  
+6. Verified access rights by simulating user logins.
+
+Challenges  
+- Over-permissioning users initially, which was corrected by adhering to the principle of least privilege.  
+- Complexity in writing correct JSON policy syntax.
+
+Takeaways  
+- Developed understanding of secure access control in cloud environments.  
+- Learned best practices in permissions management and security hardening.  
+- Recognized the critical role of MFA in enhancing account security.
