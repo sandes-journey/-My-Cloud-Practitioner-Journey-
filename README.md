@@ -1,4 +1,4 @@
-# -My-Cloud-Practitioner-Journey-
+# My Cloud Practitioner Journey
  My Cloud Practitioner Journey 💻☁️
 
 Welcome to my cloud journey repository! 🌍
