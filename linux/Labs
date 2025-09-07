@@ -1,0 +1,22 @@
+Linux Lab: Launching and Managing a Linux EC2 Instance
+
+Objective  
+To learn how to launch an EC2 instance with a Linux operating system and perform basic command-line operations.
+
+Steps Taken  
+1. Accessed the AWS Management Console.  
+2. Launched an EC2 instance running Ubuntu.  
+3. Created and downloaded an SSH key pair.  
+4. Connected to the instance via SSH using the terminal.  
+5. Executed basic Linux commands: directory navigation, file creation, permission management.  
+6. Installed software packages using the appropriate package manager.  
+7. Created and ran a simple shell script.
+
+Challenges  
+- Initial SSH connection failed due to incorrect key permissions; resolved by adjusting file permissions.  
+- Difficulty understanding the command-line text editor syntax.
+
+Takeaways  
+- Gained proficiency in basic Linux command-line operations.  
+- Understood the importance of secure key management and port configurations.  
+- Developed foundational skills in scripting and automation.
